@@ -1,5 +1,10 @@
 # Shadow Dancer Music Video
 
+
+![title](https://i.imgur.com/BuEJtTV.png)
+
+[video link](https://www.youtube.com/watch?v=VJEkaKDF3QU)
+
 A music video/lyric visualizer for the song ["Shadow Dancer" by Robin and the Goblins](https://www.youtube.com/watch?v=25Xaibsg15M).
 The images were created with the Midjourney AI and edited using Davinci Resolve. 
 
@@ -36,8 +41,6 @@ For future projects it'd interesting to create my own models, but for this video
 After trying out multiple styles, I came to the conclusion that classicist and romantic painting styles produce the highest image quality. My main goal was to avoid the overly intricate and messy details that plague many Midjourney creations while preserving its analogue-ness, such as individual brush strokes.
 
 I'm quite happy with the result:
-
-
 
 It's, of course, not authentic in any way, as Midjourney's tendency for stylized graphic novels faces is still very noticeable:
 

@@ -1,7 +1,7 @@
 # Shadow Dancer Music Video
 ![title](https://i.imgur.com/BuEJtTV.png)
 
-[video link](https://youtu.be/FZyImKC0oLs)
+[video link](https://youtu.be/gkNwbWDuZOc)
 
 Hours: 48.
 
